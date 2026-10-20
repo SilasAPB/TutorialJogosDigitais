@@ -1,0 +1,1589 @@
+fileFormatVersion: 2
+guid: 56b980e90c82f704384daa65dbf8e52a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3335579885159662298
+    second: boss_walk_8dir_0
+  - first:
+      213: 5569579230886017904
+    second: boss_walk_8dir_1
+  - first:
+      213: -5080367640462290212
+    second: boss_walk_8dir_2
+  - first:
+      213: -4651201187969546845
+    second: boss_walk_8dir_3
+  - first:
+      213: 3571119292801544575
+    second: boss_walk_8dir_4
+  - first:
+      213: 1878131462194105237
+    second: boss_walk_8dir_5
+  - first:
+      213: -5008976315441941993
+    second: boss_walk_8dir_6
+  - first:
+      213: 8947679936027683499
+    second: boss_walk_8dir_7
+  - first:
+      213: -4973671393004379705
+    second: boss_walk_8dir_8
+  - first:
+      213: 1248450396049869496
+    second: boss_walk_8dir_9
+  - first:
+      213: -3734064060023668167
+    second: boss_walk_8dir_10
+  - first:
+      213: -7853627485152394592
+    second: boss_walk_8dir_11
+  - first:
+      213: 6678381528753104562
+    second: boss_walk_8dir_12
+  - first:
+      213: -374050613664528641
+    second: boss_walk_8dir_13
+  - first:
+      213: -2083336656356719179
+    second: boss_walk_8dir_14
+  - first:
+      213: 7441972443863117910
+    second: boss_walk_8dir_15
+  - first:
+      213: -2346822817568381015
+    second: boss_walk_8dir_16
+  - first:
+      213: 7790607150215567393
+    second: boss_walk_8dir_17
+  - first:
+      213: -6201274286564819956
+    second: boss_walk_8dir_18
+  - first:
+      213: 1869331456881340063
+    second: boss_walk_8dir_19
+  - first:
+      213: -7892814127179386689
+    second: boss_walk_8dir_20
+  - first:
+      213: 6410703195282940987
+    second: boss_walk_8dir_21
+  - first:
+      213: 3140784651298202605
+    second: boss_walk_8dir_22
+  - first:
+      213: -6073753335844420270
+    second: boss_walk_8dir_23
+  - first:
+      213: 6792875258062643508
+    second: boss_walk_8dir_24
+  - first:
+      213: 4145847274507843686
+    second: boss_walk_8dir_25
+  - first:
+      213: 4912178704462926722
+    second: boss_walk_8dir_26
+  - first:
+      213: 5879616714747019352
+    second: boss_walk_8dir_27
+  - first:
+      213: 7670831555483189047
+    second: boss_walk_8dir_28
+  - first:
+      213: 4674561427264610453
+    second: boss_walk_8dir_29
+  - first:
+      213: 5244365059252540703
+    second: boss_walk_8dir_30
+  - first:
+      213: -3879005126604695329
+    second: boss_walk_8dir_31
+  - first:
+      213: 1443736164849485375
+    second: boss_walk_8dir_32
+  - first:
+      213: -1287439628693807679
+    second: boss_walk_8dir_33
+  - first:
+      213: 3433641501062922007
+    second: boss_walk_8dir_34
+  - first:
+      213: -110115323258949829
+    second: boss_walk_8dir_35
+  - first:
+      213: 3954632888239362796
+    second: boss_walk_8dir_36
+  - first:
+      213: 6091981880459174847
+    second: boss_walk_8dir_37
+  - first:
+      213: 7346424588092381263
+    second: boss_walk_8dir_38
+  - first:
+      213: 5408950776036804568
+    second: boss_walk_8dir_39
+  - first:
+      213: 3226095481641226786
+    second: boss_walk_8dir_40
+  - first:
+      213: -1309711026725340303
+    second: boss_walk_8dir_41
+  - first:
+      213: 2174617768940761985
+    second: boss_walk_8dir_42
+  - first:
+      213: -4792896036559828145
+    second: boss_walk_8dir_43
+  - first:
+      213: 7479852727377549607
+    second: boss_walk_8dir_44
+  - first:
+      213: 3955309175435313814
+    second: boss_walk_8dir_45
+  - first:
+      213: -1135335582695834906
+    second: boss_walk_8dir_46
+  - first:
+      213: -2208743102194038794
+    second: boss_walk_8dir_47
+  - first:
+      213: -1835865733030796505
+    second: boss_walk_8dir_48
+  - first:
+      213: -491541988391798614
+    second: bosswalk_r0_c0
+  - first:
+      213: 5021941662043298316
+    second: bosswalk_r0_c1
+  - first:
+      213: 3934390750347567862
+    second: bosswalk_r0_c2
+  - first:
+      213: 7447310505990230814
+    second: bosswalk_r0_c3
+  - first:
+      213: -497596233040354194
+    second: bosswalk_r0_c4
+  - first:
+      213: -3195377009275432496
+    second: bosswalk_r0_c5
+  - first:
+      213: 7442625591052226555
+    second: bosswalk_r1_c0
+  - first:
+      213: 853706427957194976
+    second: bosswalk_r1_c1
+  - first:
+      213: 3519977849390695190
+    second: bosswalk_r1_c2
+  - first:
+      213: 3207326763912280155
+    second: bosswalk_r1_c3
+  - first:
+      213: -6959849244205103574
+    second: bosswalk_r1_c4
+  - first:
+      213: 1909072596344293354
+    second: bosswalk_r1_c5
+  - first:
+      213: -7404456054002711689
+    second: bosswalk_r2_c0
+  - first:
+      213: 6525069278644700138
+    second: bosswalk_r2_c1
+  - first:
+      213: 8724986205663536583
+    second: bosswalk_r2_c2
+  - first:
+      213: -4863265092141490478
+    second: bosswalk_r2_c3
+  - first:
+      213: 5606641094182670350
+    second: bosswalk_r2_c4
+  - first:
+      213: 1303654353232257989
+    second: bosswalk_r2_c5
+  - first:
+      213: -41961389598295886
+    second: bosswalk_r3_c0
+  - first:
+      213: -1766866277321055426
+    second: bosswalk_r3_c1
+  - first:
+      213: 3451576174035938861
+    second: bosswalk_r3_c2
+  - first:
+      213: 2498340655915535239
+    second: bosswalk_r3_c3
+  - first:
+      213: -4723138146936160821
+    second: bosswalk_r3_c4
+  - first:
+      213: -4679091021417705474
+    second: bosswalk_r3_c5
+  - first:
+      213: 8317530538116948970
+    second: bosswalk_r4_c0
+  - first:
+      213: -4878700570142011169
+    second: bosswalk_r4_c1
+  - first:
+      213: -3301773406825834149
+    second: bosswalk_r4_c2
+  - first:
+      213: -4998132518509252024
+    second: bosswalk_r4_c3
+  - first:
+      213: -317324080714650052
+    second: bosswalk_r4_c4
+  - first:
+      213: 2828348655164115736
+    second: bosswalk_r4_c5
+  - first:
+      213: 2929339104625129199
+    second: bosswalk_r5_c0
+  - first:
+      213: -6258813052010786104
+    second: bosswalk_r5_c1
+  - first:
+      213: 9201285428673825111
+    second: bosswalk_r5_c2
+  - first:
+      213: -1219414595123165098
+    second: bosswalk_r5_c3
+  - first:
+      213: -7500902759985397066
+    second: bosswalk_r5_c4
+  - first:
+      213: 2764451489474766634
+    second: bosswalk_r5_c5
+  - first:
+      213: -8035329497683777953
+    second: bosswalk_r6_c0
+  - first:
+      213: 5417974696818672487
+    second: bosswalk_r6_c1
+  - first:
+      213: 7735175754996926285
+    second: bosswalk_r6_c2
+  - first:
+      213: -4330537909884308439
+    second: bosswalk_r6_c3
+  - first:
+      213: 2637463456459958898
+    second: bosswalk_r6_c4
+  - first:
+      213: 1307737401260160869
+    second: bosswalk_r6_c5
+  - first:
+      213: 3830031808255360535
+    second: bosswalk_r7_c0
+  - first:
+      213: 5449529748506935882
+    second: bosswalk_r7_c1
+  - first:
+      213: 7090284144089092952
+    second: bosswalk_r7_c2
+  - first:
+      213: -2606580280866229932
+    second: bosswalk_r7_c3
+  - first:
+      213: 9188050802498324532
+    second: bosswalk_r7_c4
+  - first:
+      213: -3155961891147009968
+    second: bosswalk_r7_c5
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 110
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bosswalk_r0_c0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1036
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8b7b57a21bd29f0800000000000000
+      internalID: -491541988391798614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r0_c1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1036
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a53d0955581b540800000000000000
+      internalID: 5021941662043298316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r0_c2
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1036
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2ac0aca83c99630800000000000000
+      internalID: 3934390750347567862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r0_c3
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1036
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13159992792a5760800000000000000
+      internalID: 7447310505990230814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r0_c4
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1036
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64ae08ccde2819f0800000000000000
+      internalID: -497596233040354194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r0_c5
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1036
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d110b63a8db7a3d0800000000000000
+      internalID: -3195377009275432496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r1_c0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 888
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff46e6da84894760800000000000000
+      internalID: 7442625591052226555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r1_c1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 888
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e03bdc1979f8db00800000000000000
+      internalID: 853706427957194976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r1_c2
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 888
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6130d22543979d030800000000000000
+      internalID: 3519977849390695190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r1_c3
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 888
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b583899d2b6b28c20800000000000000
+      internalID: 3207326763912280155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r1_c4
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 888
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2642ecbcf5a96f90800000000000000
+      internalID: -6959849244205103574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r1_c5
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 888
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7c88369636e7a10800000000000000
+      internalID: 1909072596344293354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r2_c0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 740
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7738d2a03761e3990800000000000000
+      internalID: -7404456054002711689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r2_c1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 740
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae38e6800f3bd8a50800000000000000
+      internalID: 6525069278644700138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r2_c2
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 740
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c522c22ab0651970800000000000000
+      internalID: 8724986205663536583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r2_c3
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 740
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de59565a26328cb0800000000000000
+      internalID: -4863265092141490478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r2_c4
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 740
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e009dd1be5acecd40800000000000000
+      internalID: 5606641094182670350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r2_c5
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 740
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3ec4a2ab2871210800000000000000
+      internalID: 1303654353232257989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r3_c0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 592
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b836b6a65cea6ff0800000000000000
+      internalID: -41961389598295886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r3_c1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 592
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3369a66b74da77e0800000000000000
+      internalID: -1766866277321055426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r3_c2
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 592
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e2d983e3676ef20800000000000000
+      internalID: 3451576174035938861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r3_c3
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 592
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b03cbf693eba220800000000000000
+      internalID: 2498340655915535239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r3_c4
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 592
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdf5ce21ea047eb0800000000000000
+      internalID: -4723138146936160821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r3_c5
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 592
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff8da4c187801fb0800000000000000
+      internalID: -4679091021417705474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r4_c0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3acecc4fdcd6370800000000000000
+      internalID: 8317530538116948970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r4_c1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 444
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0903f0eaf5b4cb0800000000000000
+      internalID: -4878700570142011169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r4_c2
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 444
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59905d749ebd22d0800000000000000
+      internalID: -3301773406825834149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r4_c3
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 444
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8427de5a4f013aab0800000000000000
+      internalID: -4998132518509252024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r4_c4
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 444
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e635a0e63a89bf0800000000000000
+      internalID: -317324080714650052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r4_c5
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 444
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81bc20cdd10504720800000000000000
+      internalID: 2828348655164115736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r5_c0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe677d5356a17a820800000000000000
+      internalID: 2929339104625129199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r5_c1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 296
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2915790ba3429a0800000000000000
+      internalID: -6258813052010786104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r5_c2
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 296
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759c41dc85881bf70800000000000000
+      internalID: 9201285428673825111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r5_c3
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 296
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658c1cfe2e4c31fe0800000000000000
+      internalID: -1219414595123165098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r5_c4
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 296
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2c2586ea077e790800000000000000
+      internalID: -7500902759985397066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r5_c5
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 296
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2761f4abfd4d5620800000000000000
+      internalID: 2764451489474766634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r6_c0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5627551566cc7090800000000000000
+      internalID: -8035329497683777953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r6_c1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 148
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7638ee5f743803b40800000000000000
+      internalID: 5417974696818672487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r6_c2
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 148
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d474ecfcd5dd85b60800000000000000
+      internalID: 7735175754996926285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r6_c3
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 148
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924bbf217b6d6e3c0800000000000000
+      internalID: -4330537909884308439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r6_c4
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 148
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27aae5e2a072a9420800000000000000
+      internalID: 2637463456459958898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r6_c5
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 148
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567ba9ddc34062210800000000000000
+      internalID: 1307737401260160869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r7_c0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ef18123a1072530800000000000000
+      internalID: 3830031808255360535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r7_c1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 0
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a420ea4fe6e90ab40800000000000000
+      internalID: 5449529748506935882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r7_c2
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 0
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853d305fcdfb56260800000000000000
+      internalID: 7090284144089092952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r7_c3
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 0
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4513e687b0193dbd0800000000000000
+      internalID: -2606580280866229932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r7_c4
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 0
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438c7254683828f70800000000000000
+      internalID: 9188050802498324532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bosswalk_r7_c5
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 0
+        width: 221
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05033898165c334d0800000000000000
+      internalID: -3155961891147009968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      boss_walk_8dir_0: 3335579885159662298
+      boss_walk_8dir_1: 5569579230886017904
+      boss_walk_8dir_10: -3734064060023668167
+      boss_walk_8dir_11: -7853627485152394592
+      boss_walk_8dir_12: 6678381528753104562
+      boss_walk_8dir_13: -374050613664528641
+      boss_walk_8dir_14: -2083336656356719179
+      boss_walk_8dir_15: 7441972443863117910
+      boss_walk_8dir_16: -2346822817568381015
+      boss_walk_8dir_17: 7790607150215567393
+      boss_walk_8dir_18: -6201274286564819956
+      boss_walk_8dir_19: 1869331456881340063
+      boss_walk_8dir_2: -5080367640462290212
+      boss_walk_8dir_20: -7892814127179386689
+      boss_walk_8dir_21: 6410703195282940987
+      boss_walk_8dir_22: 3140784651298202605
+      boss_walk_8dir_23: -6073753335844420270
+      boss_walk_8dir_24: 6792875258062643508
+      boss_walk_8dir_25: 4145847274507843686
+      boss_walk_8dir_26: 4912178704462926722
+      boss_walk_8dir_27: 5879616714747019352
+      boss_walk_8dir_28: 7670831555483189047
+      boss_walk_8dir_29: 4674561427264610453
+      boss_walk_8dir_3: -4651201187969546845
+      boss_walk_8dir_30: 5244365059252540703
+      boss_walk_8dir_31: -3879005126604695329
+      boss_walk_8dir_32: 1443736164849485375
+      boss_walk_8dir_33: -1287439628693807679
+      boss_walk_8dir_34: 3433641501062922007
+      boss_walk_8dir_35: -110115323258949829
+      boss_walk_8dir_36: 3954632888239362796
+      boss_walk_8dir_37: 6091981880459174847
+      boss_walk_8dir_38: 7346424588092381263
+      boss_walk_8dir_39: 5408950776036804568
+      boss_walk_8dir_4: 3571119292801544575
+      boss_walk_8dir_40: 3226095481641226786
+      boss_walk_8dir_41: -1309711026725340303
+      boss_walk_8dir_42: 2174617768940761985
+      boss_walk_8dir_43: -4792896036559828145
+      boss_walk_8dir_44: 7479852727377549607
+      boss_walk_8dir_45: 3955309175435313814
+      boss_walk_8dir_46: -1135335582695834906
+      boss_walk_8dir_47: -2208743102194038794
+      boss_walk_8dir_48: -1835865733030796505
+      boss_walk_8dir_5: 1878131462194105237
+      boss_walk_8dir_6: -5008976315441941993
+      boss_walk_8dir_7: 8947679936027683499
+      boss_walk_8dir_8: -4973671393004379705
+      boss_walk_8dir_9: 1248450396049869496
+      bosswalk_r0_c0: -491541988391798614
+      bosswalk_r0_c1: 5021941662043298316
+      bosswalk_r0_c2: 3934390750347567862
+      bosswalk_r0_c3: 7447310505990230814
+      bosswalk_r0_c4: -497596233040354194
+      bosswalk_r0_c5: -3195377009275432496
+      bosswalk_r1_c0: 7442625591052226555
+      bosswalk_r1_c1: 853706427957194976
+      bosswalk_r1_c2: 3519977849390695190
+      bosswalk_r1_c3: 3207326763912280155
+      bosswalk_r1_c4: -6959849244205103574
+      bosswalk_r1_c5: 1909072596344293354
+      bosswalk_r2_c0: -7404456054002711689
+      bosswalk_r2_c1: 6525069278644700138
+      bosswalk_r2_c2: 8724986205663536583
+      bosswalk_r2_c3: -4863265092141490478
+      bosswalk_r2_c4: 5606641094182670350
+      bosswalk_r2_c5: 1303654353232257989
+      bosswalk_r3_c0: -41961389598295886
+      bosswalk_r3_c1: -1766866277321055426
+      bosswalk_r3_c2: 3451576174035938861
+      bosswalk_r3_c3: 2498340655915535239
+      bosswalk_r3_c4: -4723138146936160821
+      bosswalk_r3_c5: -4679091021417705474
+      bosswalk_r4_c0: 8317530538116948970
+      bosswalk_r4_c1: -4878700570142011169
+      bosswalk_r4_c2: -3301773406825834149
+      bosswalk_r4_c3: -4998132518509252024
+      bosswalk_r4_c4: -317324080714650052
+      bosswalk_r4_c5: 2828348655164115736
+      bosswalk_r5_c0: 2929339104625129199
+      bosswalk_r5_c1: -6258813052010786104
+      bosswalk_r5_c2: 9201285428673825111
+      bosswalk_r5_c3: -1219414595123165098
+      bosswalk_r5_c4: -7500902759985397066
+      bosswalk_r5_c5: 2764451489474766634
+      bosswalk_r6_c0: -8035329497683777953
+      bosswalk_r6_c1: 5417974696818672487
+      bosswalk_r6_c2: 7735175754996926285
+      bosswalk_r6_c3: -4330537909884308439
+      bosswalk_r6_c4: 2637463456459958898
+      bosswalk_r6_c5: 1307737401260160869
+      bosswalk_r7_c0: 3830031808255360535
+      bosswalk_r7_c1: 5449529748506935882
+      bosswalk_r7_c2: 7090284144089092952
+      bosswalk_r7_c3: -2606580280866229932
+      bosswalk_r7_c4: 9188050802498324532
+      bosswalk_r7_c5: -3155961891147009968
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

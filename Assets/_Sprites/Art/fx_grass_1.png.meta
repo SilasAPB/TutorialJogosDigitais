@@ -1,0 +1,535 @@
+fileFormatVersion: 2
+guid: 06608b1e6c874af44aacf804aeeeffd6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5899255078341747456
+    second: fx_grass_1_0
+  - first:
+      213: -3299563478400374777
+    second: fx_grass_1_1
+  - first:
+      213: -8244694180184393619
+    second: fx_grass_1_2
+  - first:
+      213: 3577889169139853083
+    second: fx_grass_1_3
+  - first:
+      213: 5171602861509766907
+    second: fx_grass_1_4
+  - first:
+      213: -4557909783980040401
+    second: fx_grass_1_5
+  - first:
+      213: -1227166639158660558
+    second: fx_grass_1_6
+  - first:
+      213: 8895684936943991987
+    second: fx_grass_1_7
+  - first:
+      213: -6103414301841914416
+    second: fx_grass_1_8
+  - first:
+      213: -4288087422175550859
+    second: fx_grass_1_9
+  - first:
+      213: -6009918605476199571
+    second: fx_grass_1_10
+  - first:
+      213: 3556278966766353776
+    second: fx_grass_1_11
+  - first:
+      213: 7315946304689202382
+    second: fx_grass_1_12
+  - first:
+      213: -3661591942928876359
+    second: fx_grass_1_13
+  - first:
+      213: 3921386430987178030
+    second: fx_grass_1_14
+  - first:
+      213: 2152332457858526058
+    second: fx_grass_1_15
+  - first:
+      213: -2501005531701305187
+    second: fx_grass_1_16
+  - first:
+      213: -2983185005947141038
+    second: fx_grass_1_17
+  - first:
+      213: -2794613984650275474
+    second: fx_grass_1_18
+  - first:
+      213: 208111901468860897
+    second: fx_grass_1_19
+  - first:
+      213: 5206336948163387913
+    second: fx_grass_1_20
+  - first:
+      213: 8409431628093439337
+    second: fx_grass_1_21
+  - first:
+      213: 955088580795749336
+    second: fx_grass_1_22
+  - first:
+      213: -4717590535038610735
+    second: fx_grass_1_23
+  - first:
+      213: 6739940247048457355
+    second: fx_grass_1_24
+  - first:
+      213: -231920716404560615
+    second: fx_grass_1_25
+  - first:
+      213: 3030472939499184775
+    second: fx_grass_1_26
+  - first:
+      213: -4364098837167947029
+    second: fx_grass_1_27
+  - first:
+      213: 4280834066831427513
+    second: fx_grass_1_28
+  - first:
+      213: 7574187475381676040
+    second: fx_grass_1_29
+  - first:
+      213: -1838770437577529030
+    second: fx_grass_1_30
+  - first:
+      213: -795410921762712597
+    second: fx_grass_1_31
+  - first:
+      213: -7110460039680230492
+    second: fx_grass_1_32
+  - first:
+      213: -1272591693752156098
+    second: fx_grass_1_33
+  - first:
+      213: 4013186720727093640
+    second: fx_grass_1_34
+  - first:
+      213: 3452356198322982488
+    second: fx_grass_1_35
+  - first:
+      213: 1467548842731230557
+    second: fx_grass_1_36
+  - first:
+      213: -1168279122357965407
+    second: fx_grass_1_37
+  - first:
+      213: 4818541123354085157
+    second: fx_grass_1_38
+  - first:
+      213: 7965371231736234327
+    second: fx_grass_1_39
+  - first:
+      213: 2015596740944959207
+    second: fx_grass_1_40
+  - first:
+      213: 8459065363073565961
+    second: fx_grass_1_41
+  - first:
+      213: 2831111676508423582
+    second: fx_grass_1_42
+  - first:
+      213: -6170540170302701465
+    second: fx_grass_1_43
+  - first:
+      213: -7821336114388823607
+    second: fx_grass_1_44
+  - first:
+      213: 8235081670020643451
+    second: fx_grass_1_45
+  - first:
+      213: 3205732566590931833
+    second: fx_grass_1_46
+  - first:
+      213: 5509743092532497850
+    second: fx_grass_1_47
+  - first:
+      213: 511819941259659427
+    second: fx_grass_1_48
+  - first:
+      213: 9066069062602657855
+    second: fx_grass_1_49
+  - first:
+      213: 4118927674888243380
+    second: fx_grass_1_50
+  - first:
+      213: 628579654049218903
+    second: fx_grass_1_51
+  - first:
+      213: -1194513581762970280
+    second: fx_grass_1_52
+  - first:
+      213: 338979035907841295
+    second: fx_grass_1_53
+  - first:
+      213: -2237407835208365458
+    second: fx_grass_1_54
+  - first:
+      213: -3317935290043602869
+    second: fx_grass_1_55
+  - first:
+      213: -7687034600827025629
+    second: fx_grass_1_56
+  - first:
+      213: 157235329499698825
+    second: fx_grass_1_57
+  - first:
+      213: -8183369001560660082
+    second: fx_grass_1_58
+  - first:
+      213: 1059670002148592416
+    second: fx_grass_1_59
+  - first:
+      213: -4994054024681503871
+    second: fx_grass_1_60
+  - first:
+      213: -2380745543442385298
+    second: fx_grass_1_61
+  - first:
+      213: -4209187912630232548
+    second: fx_grass_1_62
+  - first:
+      213: -1593265486618943038
+    second: fx_grass_1_63
+  - first:
+      213: -8551046006440377426
+    second: fx_grass_1_64
+  - first:
+      213: 4172661067830385976
+    second: fx1_0
+  - first:
+      213: 7604246535876004362
+    second: fx1_1
+  - first:
+      213: 1385386211804770281
+    second: fx1_2
+  - first:
+      213: 5918483671411632572
+    second: fx1_3
+  - first:
+      213: -5727518625274934744
+    second: fx1_4
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 190
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fx1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 186
+        height: 154
+      alignment: 9
+      pivot: {x: 0.3, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83dd12c222548e930800000000000000
+      internalID: 4172661067830385976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx1_1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 186
+        height: 154
+      alignment: 9
+      pivot: {x: 0.3, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a42637fe5b78960800000000000000
+      internalID: 7604246535876004362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx1_2
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 0
+        width: 186
+        height: 154
+      alignment: 9
+      pivot: {x: 0.3, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efe8576b61e93310800000000000000
+      internalID: 1385386211804770281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx1_3
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 0
+        width: 186
+        height: 154
+      alignment: 9
+      pivot: {x: 0.3, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9a07baa8da22250800000000000000
+      internalID: 5918483671411632572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx1_4
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 0
+        width: 186
+        height: 154
+      alignment: 9
+      pivot: {x: 0.3, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82acd00f724c380b0800000000000000
+      internalID: -5727518625274934744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fx1_0: 4172661067830385976
+      fx1_1: 7604246535876004362
+      fx1_2: 1385386211804770281
+      fx1_3: 5918483671411632572
+      fx1_4: -5727518625274934744
+      fx_grass_1_0: -5899255078341747456
+      fx_grass_1_1: -3299563478400374777
+      fx_grass_1_10: -6009918605476199571
+      fx_grass_1_11: 3556278966766353776
+      fx_grass_1_12: 7315946304689202382
+      fx_grass_1_13: -3661591942928876359
+      fx_grass_1_14: 3921386430987178030
+      fx_grass_1_15: 2152332457858526058
+      fx_grass_1_16: -2501005531701305187
+      fx_grass_1_17: -2983185005947141038
+      fx_grass_1_18: -2794613984650275474
+      fx_grass_1_19: 208111901468860897
+      fx_grass_1_2: -8244694180184393619
+      fx_grass_1_20: 5206336948163387913
+      fx_grass_1_21: 8409431628093439337
+      fx_grass_1_22: 955088580795749336
+      fx_grass_1_23: -4717590535038610735
+      fx_grass_1_24: 6739940247048457355
+      fx_grass_1_25: -231920716404560615
+      fx_grass_1_26: 3030472939499184775
+      fx_grass_1_27: -4364098837167947029
+      fx_grass_1_28: 4280834066831427513
+      fx_grass_1_29: 7574187475381676040
+      fx_grass_1_3: 3577889169139853083
+      fx_grass_1_30: -1838770437577529030
+      fx_grass_1_31: -795410921762712597
+      fx_grass_1_32: -7110460039680230492
+      fx_grass_1_33: -1272591693752156098
+      fx_grass_1_34: 4013186720727093640
+      fx_grass_1_35: 3452356198322982488
+      fx_grass_1_36: 1467548842731230557
+      fx_grass_1_37: -1168279122357965407
+      fx_grass_1_38: 4818541123354085157
+      fx_grass_1_39: 7965371231736234327
+      fx_grass_1_4: 5171602861509766907
+      fx_grass_1_40: 2015596740944959207
+      fx_grass_1_41: 8459065363073565961
+      fx_grass_1_42: 2831111676508423582
+      fx_grass_1_43: -6170540170302701465
+      fx_grass_1_44: -7821336114388823607
+      fx_grass_1_45: 8235081670020643451
+      fx_grass_1_46: 3205732566590931833
+      fx_grass_1_47: 5509743092532497850
+      fx_grass_1_48: 511819941259659427
+      fx_grass_1_49: 9066069062602657855
+      fx_grass_1_5: -4557909783980040401
+      fx_grass_1_50: 4118927674888243380
+      fx_grass_1_51: 628579654049218903
+      fx_grass_1_52: -1194513581762970280
+      fx_grass_1_53: 338979035907841295
+      fx_grass_1_54: -2237407835208365458
+      fx_grass_1_55: -3317935290043602869
+      fx_grass_1_56: -7687034600827025629
+      fx_grass_1_57: 157235329499698825
+      fx_grass_1_58: -8183369001560660082
+      fx_grass_1_59: 1059670002148592416
+      fx_grass_1_6: -1227166639158660558
+      fx_grass_1_60: -4994054024681503871
+      fx_grass_1_61: -2380745543442385298
+      fx_grass_1_62: -4209187912630232548
+      fx_grass_1_63: -1593265486618943038
+      fx_grass_1_64: -8551046006440377426
+      fx_grass_1_7: 8895684936943991987
+      fx_grass_1_8: -6103414301841914416
+      fx_grass_1_9: -4288087422175550859
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

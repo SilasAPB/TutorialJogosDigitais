@@ -1,0 +1,927 @@
+fileFormatVersion: 2
+guid: 97de13ae378f15a46972cceee52a98a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7569977465393551059
+    second: mower_sheet_0
+  - first:
+      213: 1598985927986588123
+    second: mower_sheet_1
+  - first:
+      213: 4939603825056231685
+    second: mower_sheet_2
+  - first:
+      213: 2709768878813741430
+    second: mower_sheet_3
+  - first:
+      213: -2554947778827232444
+    second: mower_sheet_4
+  - first:
+      213: 9006752333534815178
+    second: mower_sheet_5
+  - first:
+      213: 5172947174553806240
+    second: mower_sheet_6
+  - first:
+      213: 253727568080285626
+    second: mower_sheet_7
+  - first:
+      213: 1500721376219656040
+    second: mower_sheet_8
+  - first:
+      213: 3720487973205232963
+    second: mower_sheet_9
+  - first:
+      213: -2161305707833848523
+    second: mower_sheet_10
+  - first:
+      213: 8055592880308706370
+    second: mower_sheet_11
+  - first:
+      213: -9208867409318401576
+    second: mower_sheet_12
+  - first:
+      213: -6889392469124821366
+    second: mower_sheet_13
+  - first:
+      213: 8315567939906198836
+    second: mower_sheet_14
+  - first:
+      213: 3074182617803722540
+    second: mower_sheet_15
+  - first:
+      213: -7565333982985595608
+    second: mower_sheet_16
+  - first:
+      213: 5870250783590343357
+    second: mower_sheet_17
+  - first:
+      213: 6366110161948398579
+    second: mower_sheet_18
+  - first:
+      213: -2094020876912709552
+    second: mower_sheet_19
+  - first:
+      213: -1668057850875563926
+    second: mower_sheet_20
+  - first:
+      213: 7713465992499324534
+    second: mower_sheet_21
+  - first:
+      213: -1808475066134633504
+    second: mower_sheet_22
+  - first:
+      213: -797557486099409396
+    second: mower_sheet_23
+  - first:
+      213: -1146525363861642750
+    second: mower_sheet_24
+  - first:
+      213: -8644610788724729862
+    second: mower_sheet_25
+  - first:
+      213: -1238508972380617023
+    second: mower_sheet_26
+  - first:
+      213: 8168323670196139935
+    second: mower_sheet_27
+  - first:
+      213: -7658456565558889848
+    second: mower_sheet_28
+  - first:
+      213: -8061886038666548208
+    second: mower_sheet_29
+  - first:
+      213: -4655270259756831278
+    second: mower_sheet_30
+  - first:
+      213: 3913409314881113224
+    second: mower_sheet_31
+  - first:
+      213: 3946247052225839901
+    second: mower_sheet_32
+  - first:
+      213: 5084902181541880465
+    second: mower_r0_c0
+  - first:
+      213: -7091947741824213609
+    second: mower_r0_c1
+  - first:
+      213: -2040390016663411870
+    second: mower_r0_c2
+  - first:
+      213: 6989303382800320819
+    second: mower_r0_c3
+  - first:
+      213: 784513952263770220
+    second: mower_r0_c4
+  - first:
+      213: -4475549119649817374
+    second: mower_r1_c0
+  - first:
+      213: 358461728637269056
+    second: mower_r1_c1
+  - first:
+      213: -2799266408106571964
+    second: mower_r1_c2
+  - first:
+      213: -8776848970020656328
+    second: mower_r1_c3
+  - first:
+      213: 6288030336117729724
+    second: mower_r1_c4
+  - first:
+      213: 5440083216083281140
+    second: mower_r2_c0
+  - first:
+      213: 8653548920034107957
+    second: mower_r2_c1
+  - first:
+      213: 5179881664690965340
+    second: mower_r2_c2
+  - first:
+      213: 2961574852557129958
+    second: mower_r2_c3
+  - first:
+      213: 3473893551333171755
+    second: mower_r2_c4
+  - first:
+      213: 1896705054277659951
+    second: mower_r3_c0
+  - first:
+      213: -2263095344606911670
+    second: mower_r3_c1
+  - first:
+      213: 4373967432320103095
+    second: mower_r3_c2
+  - first:
+      213: -6954189398104027671
+    second: mower_r3_c3
+  - first:
+      213: -5174952590127129323
+    second: mower_r3_c4
+  - first:
+      213: 6975482907028270269
+    second: mower_r4_c0
+  - first:
+      213: 6743870498647853219
+    second: mower_r4_c1
+  - first:
+      213: 640651957411291505
+    second: mower_r4_c2
+  - first:
+      213: 1053292507819304527
+    second: mower_r4_c3
+  - first:
+      213: 5916830799377578283
+    second: mower_r4_c4
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mower_r0_c0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192a968d793319640800000000000000
+      internalID: 5084902181541880465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mower_r0_c1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1120
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d1fe28a17549d90800000000000000
+      internalID: -7091947741824213609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mower_r0_c2
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1120
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263268d17141fa3e0800000000000000
+      internalID: -2040390016663411870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mower_r0_c3
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1120
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339cf3f456efef060800000000000000
+      internalID: 6989303382800320819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mower_r0_c4
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1120
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c601506784723ea00800000000000000
+      internalID: 784513952263770220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mower_r1_c0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecd574c9c7a3e1c0800000000000000
+      internalID: -4475549119649817374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mower_r1_c1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 840
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0443ff00b0389f400800000000000000
+      internalID: 358461728637269056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mower_r1_c2
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 840
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447cf1178020729d0800000000000000
+      internalID: -2799266408106571964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mower_r1_c3
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 840
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b6aae0d5e523680800000000000000
+      internalID: -8776848970020656328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mower_r1_c4
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 840
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb96d297642934750800000000000000
+      internalID: 6288030336117729724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mower_r2_c0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4653bbcde0f7b40800000000000000
+      internalID: 5440083216083281140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mower_r2_c1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 560
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5322911f4e4971870800000000000000
+      internalID: 8653548920034107957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mower_r2_c2
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 560
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5bc67a0ee2a2e740800000000000000
+      internalID: 5179881664690965340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mower_r2_c3
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 560
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8c56623a0a91920800000000000000
+      internalID: 2961574852557129958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mower_r2_c4
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 560
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22ebba87cfb53030800000000000000
+      internalID: 3473893551333171755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mower_r3_c0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d68eb9233725a10800000000000000
+      internalID: 1896705054277659951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mower_r3_c1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 280
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a436dd346ced790e0800000000000000
+      internalID: -2263095344606911670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mower_r3_c2
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 280
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b23196943473bc30800000000000000
+      internalID: 4373967432320103095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mower_r3_c3
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 280
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edc8395691cd7f90800000000000000
+      internalID: -6954189398104027671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mower_r3_c4
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 280
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d1cff8900ee28b0800000000000000
+      internalID: -5174952590127129323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mower_r4_c0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcaa3a0fb4edc060800000000000000
+      internalID: 6975482907028270269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mower_r4_c1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8442bec7a079d50800000000000000
+      internalID: 6743870498647853219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mower_r4_c2
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171a82a9f8d04e800800000000000000
+      internalID: 640651957411291505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mower_r4_c3
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46662d84fb0e9e00800000000000000
+      internalID: 1053292507819304527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mower_r4_c4
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29bdf8634ecc1250800000000000000
+      internalID: 5916830799377578283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mower_r0_c0: 5084902181541880465
+      mower_r0_c1: -7091947741824213609
+      mower_r0_c2: -2040390016663411870
+      mower_r0_c3: 6989303382800320819
+      mower_r0_c4: 784513952263770220
+      mower_r1_c0: -4475549119649817374
+      mower_r1_c1: 358461728637269056
+      mower_r1_c2: -2799266408106571964
+      mower_r1_c3: -8776848970020656328
+      mower_r1_c4: 6288030336117729724
+      mower_r2_c0: 5440083216083281140
+      mower_r2_c1: 8653548920034107957
+      mower_r2_c2: 5179881664690965340
+      mower_r2_c3: 2961574852557129958
+      mower_r2_c4: 3473893551333171755
+      mower_r3_c0: 1896705054277659951
+      mower_r3_c1: -2263095344606911670
+      mower_r3_c2: 4373967432320103095
+      mower_r3_c3: -6954189398104027671
+      mower_r3_c4: -5174952590127129323
+      mower_r4_c0: 6975482907028270269
+      mower_r4_c1: 6743870498647853219
+      mower_r4_c2: 640651957411291505
+      mower_r4_c3: 1053292507819304527
+      mower_r4_c4: 5916830799377578283
+      mower_sheet_0: -7569977465393551059
+      mower_sheet_1: 1598985927986588123
+      mower_sheet_10: -2161305707833848523
+      mower_sheet_11: 8055592880308706370
+      mower_sheet_12: -9208867409318401576
+      mower_sheet_13: -6889392469124821366
+      mower_sheet_14: 8315567939906198836
+      mower_sheet_15: 3074182617803722540
+      mower_sheet_16: -7565333982985595608
+      mower_sheet_17: 5870250783590343357
+      mower_sheet_18: 6366110161948398579
+      mower_sheet_19: -2094020876912709552
+      mower_sheet_2: 4939603825056231685
+      mower_sheet_20: -1668057850875563926
+      mower_sheet_21: 7713465992499324534
+      mower_sheet_22: -1808475066134633504
+      mower_sheet_23: -797557486099409396
+      mower_sheet_24: -1146525363861642750
+      mower_sheet_25: -8644610788724729862
+      mower_sheet_26: -1238508972380617023
+      mower_sheet_27: 8168323670196139935
+      mower_sheet_28: -7658456565558889848
+      mower_sheet_29: -8061886038666548208
+      mower_sheet_3: 2709768878813741430
+      mower_sheet_30: -4655270259756831278
+      mower_sheet_31: 3913409314881113224
+      mower_sheet_32: 3946247052225839901
+      mower_sheet_4: -2554947778827232444
+      mower_sheet_5: 9006752333534815178
+      mower_sheet_6: 5172947174553806240
+      mower_sheet_7: 253727568080285626
+      mower_sheet_8: 1500721376219656040
+      mower_sheet_9: 3720487973205232963
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

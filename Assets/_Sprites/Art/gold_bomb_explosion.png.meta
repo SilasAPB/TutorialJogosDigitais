@@ -1,0 +1,609 @@
+fileFormatVersion: 2
+guid: 5f736876c09293e4f8f4c2006e5c8b9b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7241893253432652508
+    second: gold_bomb_explosion_0
+  - first:
+      213: -5948940199962798436
+    second: gold_bomb_explosion_1
+  - first:
+      213: 7012789116506509044
+    second: gold_bomb_explosion_2
+  - first:
+      213: -3279010755229799450
+    second: gold_bomb_explosion_3
+  - first:
+      213: 6990330825189991522
+    second: gold_bomb_explosion_4
+  - first:
+      213: -5023586794744292461
+    second: gold_bomb_explosion_5
+  - first:
+      213: 3697601574737233593
+    second: gold_bomb_explosion_6
+  - first:
+      213: -6319079918186534272
+    second: gold_bomb_explosion_7
+  - first:
+      213: 1895083496030248048
+    second: gold_bomb_explosion_8
+  - first:
+      213: 5456129045586304374
+    second: gold_bomb_explosion_9
+  - first:
+      213: 7071229934220578799
+    second: gold_bomb_explosion_10
+  - first:
+      213: -6896364681015440808
+    second: gold_bomb_explosion_11
+  - first:
+      213: 2819011030011954929
+    second: gold_bomb_explosion_12
+  - first:
+      213: 628376733389592879
+    second: gold_bomb_explosion_13
+  - first:
+      213: -1285194022387272345
+    second: gold_bomb_explosion_14
+  - first:
+      213: -7098316519552490871
+    second: gold_bomb_explosion_15
+  - first:
+      213: -8023114390856943612
+    second: gold_bomb_explosion_16
+  - first:
+      213: 7596738660694321652
+    second: gold_bomb_explosion_17
+  - first:
+      213: 938464102102343871
+    second: gold_bomb_explosion_18
+  - first:
+      213: 3463996777897834549
+    second: gold_bomb_explosion_19
+  - first:
+      213: -1151330059460245878
+    second: gold_bomb_explosion_20
+  - first:
+      213: -2630062572320161958
+    second: gold_bomb_explosion_21
+  - first:
+      213: 7946812992998676273
+    second: gold_bomb_explosion_22
+  - first:
+      213: -7067536661428654913
+    second: gold_bomb_explosion_23
+  - first:
+      213: -5370888162268414975
+    second: gold_bomb_explosion_24
+  - first:
+      213: -8793227900559144685
+    second: gold_bomb_explosion_25
+  - first:
+      213: -7673313770195797828
+    second: gold_bomb_explosion_26
+  - first:
+      213: -3109583966801790260
+    second: gold_bomb_explosion_27
+  - first:
+      213: 5543136992568803006
+    second: gold_bomb_explosion_28
+  - first:
+      213: 2175606432948799587
+    second: gold_bomb_explosion_29
+  - first:
+      213: 6941586689328058598
+    second: gold_bomb_explosion_30
+  - first:
+      213: -8880794599036079619
+    second: gold_bomb_explosion_31
+  - first:
+      213: -6363905639398068933
+    second: gold_bomb_explosion_32
+  - first:
+      213: -8806518627242276418
+    second: gold_bomb_explosion_33
+  - first:
+      213: -3530900411611241445
+    second: gold_bomb_explosion_34
+  - first:
+      213: 1385876020345898064
+    second: gold_bomb_explosion_35
+  - first:
+      213: -1009053161074219456
+    second: gold_bomb_explosion_36
+  - first:
+      213: -3553441555191886997
+    second: gold_bomb_explosion_37
+  - first:
+      213: -7800973420688914860
+    second: gold_bomb_explosion_38
+  - first:
+      213: 1774091161978001489
+    second: gold_bomb_explosion_39
+  - first:
+      213: 8572869757991331904
+    second: gold_bomb_explosion_40
+  - first:
+      213: -2599908893911193421
+    second: gold_bomb_explosion_41
+  - first:
+      213: 52096322279045414
+    second: gold_bomb_explosion_42
+  - first:
+      213: 6358460309730641371
+    second: gold_bomb_explosion_43
+  - first:
+      213: -3410056808147835734
+    second: gold_bomb_explosion_44
+  - first:
+      213: -8064544461478315407
+    second: gold_bomb_explosion_45
+  - first:
+      213: -4642120966108070152
+    second: gold_bomb_explosion_46
+  - first:
+      213: 4824391679217770004
+    second: gold_bomb_explosion_47
+  - first:
+      213: 245905087403004328
+    second: gold_bomb_explosion_48
+  - first:
+      213: -6172205546703924669
+    second: gold_bomb_explosion_49
+  - first:
+      213: 8520138328158524491
+    second: gold_bomb_explosion_50
+  - first:
+      213: -196527242135819978
+    second: gold_bomb_explosion_51
+  - first:
+      213: -1931738257995544279
+    second: gold_bomb_explosion_52
+  - first:
+      213: 326954998695336964
+    second: gold_bomb_explosion_53
+  - first:
+      213: 7622074046902803949
+    second: gold_bomb_explosion_54
+  - first:
+      213: 7728031180016743099
+    second: gold_bomb_explosion_55
+  - first:
+      213: -34920558915388434
+    second: gold_bomb_explosion_56
+  - first:
+      213: -6185979856444510993
+    second: gold_bomb_explosion_57
+  - first:
+      213: 3566172093699864051
+    second: gold_bomb_explosion_58
+  - first:
+      213: 6331219535308430638
+    second: gold_bomb_explosion_59
+  - first:
+      213: -639641007556592304
+    second: gold_bomb_explosion_60
+  - first:
+      213: -3608934532253258176
+    second: gold_bomb_explosion_61
+  - first:
+      213: -1439167335806800180
+    second: gold_bomb_explosion_62
+  - first:
+      213: 7245201717024802599
+    second: gold_bomb_explosion_63
+  - first:
+      213: -637337251652284649
+    second: gold_bomb_explosion_64
+  - first:
+      213: 5429475284117841333
+    second: gold_bomb_explosion_65
+  - first:
+      213: 3846585962257783271
+    second: gold_bomb_explosion_66
+  - first:
+      213: -4884683374970026215
+    second: gold_bomb_explosion_67
+  - first:
+      213: -2583271971000201387
+    second: gold_bomb_explosion_68
+  - first:
+      213: 4081886184046085039
+    second: gold_bomb_explosion_69
+  - first:
+      213: -1522659110986361122
+    second: gold_bomb_explosion_70
+  - first:
+      213: -9017421545723478376
+    second: gold_bomb_explosion_71
+  - first:
+      213: 7446239552988574097
+    second: gold_bomb_explosion_72
+  - first:
+      213: 6954306198550652151
+    second: gold_bomb_explosion_73
+  - first:
+      213: -652339555861378345
+    second: gold_bomb_explosion_74
+  - first:
+      213: 7790046638020729443
+    second: gold_bomb_explosion_75
+  - first:
+      213: 8167705407981466082
+    second: gold_bomb_explosion_76
+  - first:
+      213: 3588199616486008358
+    second: gold_bomb_explosion_77
+  - first:
+      213: 1286530729440672005
+    second: gold_bomb_explosion_78
+  - first:
+      213: 3836577707140143572
+    second: gold_bomb_explosion_79
+  - first:
+      213: 2371122213263901734
+    second: gold_bomb_explosion_80
+  - first:
+      213: -169302188186292128
+    second: gold_bomb_explosion_81
+  - first:
+      213: 794711736800853548
+    second: gold_bomb_explosion_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 68
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gold_bomb_explosion_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 198
+        height: 220
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2b6287b8f508460800000000000000
+      internalID: 7241893253432652508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_bomb_explosion_1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 198
+        height: 220
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c961d2f286e117da0800000000000000
+      internalID: -5948940199962798436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_bomb_explosion_2
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 198
+        height: 220
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe881ecb8e625160800000000000000
+      internalID: 7012789116506509044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_bomb_explosion_3
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 0
+        width: 198
+        height: 220
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eba7df471d9e72d0800000000000000
+      internalID: -3279010755229799450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_bomb_explosion_4
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 0
+        width: 198
+        height: 220
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264a9e169d4a20160800000000000000
+      internalID: 6990330825189991522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_bomb_explosion_5
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 0
+        width: 198
+        height: 220
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b5ce02d62a84ab0800000000000000
+      internalID: -5023586794744292461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gold_bomb_explosion_0: 7241893253432652508
+      gold_bomb_explosion_1: -5948940199962798436
+      gold_bomb_explosion_10: 7071229934220578799
+      gold_bomb_explosion_11: -6896364681015440808
+      gold_bomb_explosion_12: 2819011030011954929
+      gold_bomb_explosion_13: 628376733389592879
+      gold_bomb_explosion_14: -1285194022387272345
+      gold_bomb_explosion_15: -7098316519552490871
+      gold_bomb_explosion_16: -8023114390856943612
+      gold_bomb_explosion_17: 7596738660694321652
+      gold_bomb_explosion_18: 938464102102343871
+      gold_bomb_explosion_19: 3463996777897834549
+      gold_bomb_explosion_2: 7012789116506509044
+      gold_bomb_explosion_20: -1151330059460245878
+      gold_bomb_explosion_21: -2630062572320161958
+      gold_bomb_explosion_22: 7946812992998676273
+      gold_bomb_explosion_23: -7067536661428654913
+      gold_bomb_explosion_24: -5370888162268414975
+      gold_bomb_explosion_25: -8793227900559144685
+      gold_bomb_explosion_26: -7673313770195797828
+      gold_bomb_explosion_27: -3109583966801790260
+      gold_bomb_explosion_28: 5543136992568803006
+      gold_bomb_explosion_29: 2175606432948799587
+      gold_bomb_explosion_3: -3279010755229799450
+      gold_bomb_explosion_30: 6941586689328058598
+      gold_bomb_explosion_31: -8880794599036079619
+      gold_bomb_explosion_32: -6363905639398068933
+      gold_bomb_explosion_33: -8806518627242276418
+      gold_bomb_explosion_34: -3530900411611241445
+      gold_bomb_explosion_35: 1385876020345898064
+      gold_bomb_explosion_36: -1009053161074219456
+      gold_bomb_explosion_37: -3553441555191886997
+      gold_bomb_explosion_38: -7800973420688914860
+      gold_bomb_explosion_39: 1774091161978001489
+      gold_bomb_explosion_4: 6990330825189991522
+      gold_bomb_explosion_40: 8572869757991331904
+      gold_bomb_explosion_41: -2599908893911193421
+      gold_bomb_explosion_42: 52096322279045414
+      gold_bomb_explosion_43: 6358460309730641371
+      gold_bomb_explosion_44: -3410056808147835734
+      gold_bomb_explosion_45: -8064544461478315407
+      gold_bomb_explosion_46: -4642120966108070152
+      gold_bomb_explosion_47: 4824391679217770004
+      gold_bomb_explosion_48: 245905087403004328
+      gold_bomb_explosion_49: -6172205546703924669
+      gold_bomb_explosion_5: -5023586794744292461
+      gold_bomb_explosion_50: 8520138328158524491
+      gold_bomb_explosion_51: -196527242135819978
+      gold_bomb_explosion_52: -1931738257995544279
+      gold_bomb_explosion_53: 326954998695336964
+      gold_bomb_explosion_54: 7622074046902803949
+      gold_bomb_explosion_55: 7728031180016743099
+      gold_bomb_explosion_56: -34920558915388434
+      gold_bomb_explosion_57: -6185979856444510993
+      gold_bomb_explosion_58: 3566172093699864051
+      gold_bomb_explosion_59: 6331219535308430638
+      gold_bomb_explosion_6: 3697601574737233593
+      gold_bomb_explosion_60: -639641007556592304
+      gold_bomb_explosion_61: -3608934532253258176
+      gold_bomb_explosion_62: -1439167335806800180
+      gold_bomb_explosion_63: 7245201717024802599
+      gold_bomb_explosion_64: -637337251652284649
+      gold_bomb_explosion_65: 5429475284117841333
+      gold_bomb_explosion_66: 3846585962257783271
+      gold_bomb_explosion_67: -4884683374970026215
+      gold_bomb_explosion_68: -2583271971000201387
+      gold_bomb_explosion_69: 4081886184046085039
+      gold_bomb_explosion_7: -6319079918186534272
+      gold_bomb_explosion_70: -1522659110986361122
+      gold_bomb_explosion_71: -9017421545723478376
+      gold_bomb_explosion_72: 7446239552988574097
+      gold_bomb_explosion_73: 6954306198550652151
+      gold_bomb_explosion_74: -652339555861378345
+      gold_bomb_explosion_75: 7790046638020729443
+      gold_bomb_explosion_76: 8167705407981466082
+      gold_bomb_explosion_77: 3588199616486008358
+      gold_bomb_explosion_78: 1286530729440672005
+      gold_bomb_explosion_79: 3836577707140143572
+      gold_bomb_explosion_8: 1895083496030248048
+      gold_bomb_explosion_80: 2371122213263901734
+      gold_bomb_explosion_81: -169302188186292128
+      gold_bomb_explosion_82: 794711736800853548
+      gold_bomb_explosion_9: 5456129045586304374
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

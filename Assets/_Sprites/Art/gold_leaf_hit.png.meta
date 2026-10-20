@@ -1,0 +1,503 @@
+fileFormatVersion: 2
+guid: d1a2c8588f66f7d4d96402c308ed96c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9059465201951075143
+    second: gold_leaf_hit_0
+  - first:
+      213: 2721776417183723717
+    second: gold_leaf_hit_1
+  - first:
+      213: -8901697537558275234
+    second: gold_leaf_hit_2
+  - first:
+      213: -4853878527067440090
+    second: gold_leaf_hit_3
+  - first:
+      213: 8558817604885439434
+    second: gold_leaf_hit_4
+  - first:
+      213: -4770744661119896227
+    second: gold_leaf_hit_5
+  - first:
+      213: -1481827582054191760
+    second: gold_leaf_hit_6
+  - first:
+      213: 4007445038302010619
+    second: gold_leaf_hit_7
+  - first:
+      213: 7172631879658520052
+    second: gold_leaf_hit_8
+  - first:
+      213: -8906733575706554208
+    second: gold_leaf_hit_9
+  - first:
+      213: 4440158989069623910
+    second: gold_leaf_hit_10
+  - first:
+      213: 7259280797882182952
+    second: gold_leaf_hit_11
+  - first:
+      213: -3323660139912264041
+    second: gold_leaf_hit_12
+  - first:
+      213: -7375683008084992001
+    second: gold_leaf_hit_13
+  - first:
+      213: 3137498064522835708
+    second: gold_leaf_hit_14
+  - first:
+      213: -8169322358659948677
+    second: gold_leaf_hit_15
+  - first:
+      213: 4666767200595457847
+    second: gold_leaf_hit_16
+  - first:
+      213: -3049149291278523946
+    second: gold_leaf_hit_17
+  - first:
+      213: -9042529511191454880
+    second: gold_leaf_hit_18
+  - first:
+      213: -9015336849767318854
+    second: gold_leaf_hit_19
+  - first:
+      213: 915748327135673281
+    second: gold_leaf_hit_20
+  - first:
+      213: -6101098305636530348
+    second: gold_leaf_hit_21
+  - first:
+      213: 3040323708506887825
+    second: gold_leaf_hit_22
+  - first:
+      213: -8401793727681231200
+    second: gold_leaf_hit_23
+  - first:
+      213: -7256192646482080114
+    second: gold_leaf_hit_24
+  - first:
+      213: -3631198853779245863
+    second: gold_leaf_hit_25
+  - first:
+      213: -7217719430516453687
+    second: gold_leaf_hit_26
+  - first:
+      213: -5530857040899894150
+    second: gold_leaf_hit_27
+  - first:
+      213: -4583767289414109536
+    second: gold_leaf_hit_28
+  - first:
+      213: 1739602967701834182
+    second: gold_leaf_hit_29
+  - first:
+      213: -333420145699369055
+    second: gold_leaf_hit_30
+  - first:
+      213: -5362680468335404801
+    second: gold_leaf_hit_31
+  - first:
+      213: 4672703102120441031
+    second: gold_leaf_hit_32
+  - first:
+      213: 6074228301147097895
+    second: gold_leaf_hit_33
+  - first:
+      213: -7107532240576060499
+    second: gold_leaf_hit_34
+  - first:
+      213: 7869774276656239899
+    second: gold_leaf_hit_35
+  - first:
+      213: -4546464280550128624
+    second: gold_leaf_hit_36
+  - first:
+      213: 5460349407673801201
+    second: gold_leaf_hit_37
+  - first:
+      213: 4427094960154859277
+    second: gold_leaf_hit_38
+  - first:
+      213: 3385423295912120694
+    second: gold_leaf_hit_39
+  - first:
+      213: 2073929012482640375
+    second: gold_leaf_hit_40
+  - first:
+      213: 2663951689940787760
+    second: gold_leaf_hit_41
+  - first:
+      213: 2531892588832718436
+    second: gold_leaf_hit_42
+  - first:
+      213: 8427848731283872734
+    second: gold_leaf_hit_43
+  - first:
+      213: 2776690369717120540
+    second: gold_leaf_hit_44
+  - first:
+      213: 3690698152507252913
+    second: gold_leaf_hit_45
+  - first:
+      213: 4136207496992003340
+    second: gold_leaf_hit_46
+  - first:
+      213: -3481327405490525531
+    second: gold_leaf_hit_47
+  - first:
+      213: 5121401001054786831
+    second: gold_leaf_hit_48
+  - first:
+      213: 4460555312179574616
+    second: gold_leaf_hit_49
+  - first:
+      213: 421586985832857939
+    second: gold_leaf_hit_50
+  - first:
+      213: -5969500599792925189
+    second: gold_leaf_hit_51
+  - first:
+      213: 3129933640193706867
+    second: gold_leaf_hit_52
+  - first:
+      213: 2183244058053992454
+    second: gold_leaf_hit_53
+  - first:
+      213: -6249781259044650064
+    second: gold_leaf_hit_54
+  - first:
+      213: -2031719363346292986
+    second: gold_leaf_hit_55
+  - first:
+      213: 2650514097974374538
+    second: gold_leaf_hit_56
+  - first:
+      213: 6309657497531587074
+    second: gold_leaf_hit_57
+  - first:
+      213: -6444984242569532206
+    second: gold_leaf_hit_58
+  - first:
+      213: -3245589298130720933
+    second: gold_leaf_hit_59
+  - first:
+      213: 2932989670380951639
+    second: gold_leaf_hit_60
+  - first:
+      213: -8352227873160496772
+    second: gold_leaf_hit_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 248
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gold_leaf_hit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 217
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b491bed560564280800000000000000
+      internalID: -9059465201951075143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_leaf_hit_1
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 0
+        width: 217
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c075481b31b5c520800000000000000
+      internalID: 2721776417183723717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_leaf_hit_2
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 0
+        width: 217
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b9ed7b041d67480800000000000000
+      internalID: -8901697537558275234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_leaf_hit_3
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 0
+        width: 217
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cbf33523f83acb0800000000000000
+      internalID: -4853878527067440090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_leaf_hit_4
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 0
+        width: 217
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac36e8cd34707c670800000000000000
+      internalID: 8558817604885439434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gold_leaf_hit_0: -9059465201951075143
+      gold_leaf_hit_1: 2721776417183723717
+      gold_leaf_hit_10: 4440158989069623910
+      gold_leaf_hit_11: 7259280797882182952
+      gold_leaf_hit_12: -3323660139912264041
+      gold_leaf_hit_13: -7375683008084992001
+      gold_leaf_hit_14: 3137498064522835708
+      gold_leaf_hit_15: -8169322358659948677
+      gold_leaf_hit_16: 4666767200595457847
+      gold_leaf_hit_17: -3049149291278523946
+      gold_leaf_hit_18: -9042529511191454880
+      gold_leaf_hit_19: -9015336849767318854
+      gold_leaf_hit_2: -8901697537558275234
+      gold_leaf_hit_20: 915748327135673281
+      gold_leaf_hit_21: -6101098305636530348
+      gold_leaf_hit_22: 3040323708506887825
+      gold_leaf_hit_23: -8401793727681231200
+      gold_leaf_hit_24: -7256192646482080114
+      gold_leaf_hit_25: -3631198853779245863
+      gold_leaf_hit_26: -7217719430516453687
+      gold_leaf_hit_27: -5530857040899894150
+      gold_leaf_hit_28: -4583767289414109536
+      gold_leaf_hit_29: 1739602967701834182
+      gold_leaf_hit_3: -4853878527067440090
+      gold_leaf_hit_30: -333420145699369055
+      gold_leaf_hit_31: -5362680468335404801
+      gold_leaf_hit_32: 4672703102120441031
+      gold_leaf_hit_33: 6074228301147097895
+      gold_leaf_hit_34: -7107532240576060499
+      gold_leaf_hit_35: 7869774276656239899
+      gold_leaf_hit_36: -4546464280550128624
+      gold_leaf_hit_37: 5460349407673801201
+      gold_leaf_hit_38: 4427094960154859277
+      gold_leaf_hit_39: 3385423295912120694
+      gold_leaf_hit_4: 8558817604885439434
+      gold_leaf_hit_40: 2073929012482640375
+      gold_leaf_hit_41: 2663951689940787760
+      gold_leaf_hit_42: 2531892588832718436
+      gold_leaf_hit_43: 8427848731283872734
+      gold_leaf_hit_44: 2776690369717120540
+      gold_leaf_hit_45: 3690698152507252913
+      gold_leaf_hit_46: 4136207496992003340
+      gold_leaf_hit_47: -3481327405490525531
+      gold_leaf_hit_48: 5121401001054786831
+      gold_leaf_hit_49: 4460555312179574616
+      gold_leaf_hit_5: -4770744661119896227
+      gold_leaf_hit_50: 421586985832857939
+      gold_leaf_hit_51: -5969500599792925189
+      gold_leaf_hit_52: 3129933640193706867
+      gold_leaf_hit_53: 2183244058053992454
+      gold_leaf_hit_54: -6249781259044650064
+      gold_leaf_hit_55: -2031719363346292986
+      gold_leaf_hit_56: 2650514097974374538
+      gold_leaf_hit_57: 6309657497531587074
+      gold_leaf_hit_58: -6444984242569532206
+      gold_leaf_hit_59: -3245589298130720933
+      gold_leaf_hit_6: -1481827582054191760
+      gold_leaf_hit_60: 2932989670380951639
+      gold_leaf_hit_61: -8352227873160496772
+      gold_leaf_hit_7: 4007445038302010619
+      gold_leaf_hit_8: 7172631879658520052
+      gold_leaf_hit_9: -8906733575706554208
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

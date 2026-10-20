@@ -1,0 +1,313 @@
+fileFormatVersion: 2
+guid: 5b7c37ad6d811c141961fbe3e9d3eb1a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -606815115252255485
+    second: leaf_spin_0
+  - first:
+      213: 3084962795490248678
+    second: leaf_spin_1
+  - first:
+      213: 8225317334749817242
+    second: leaf_spin_2
+  - first:
+      213: -4367978714709518708
+    second: leaf_spin_3
+  - first:
+      213: -7329380556542336340
+    second: leaf_spin_4
+  - first:
+      213: 4285789207701481262
+    second: leaf_spin_5
+  - first:
+      213: -5469023176551511919
+    second: leaf_spin_6
+  - first:
+      213: 2856723084627753718
+    second: leaf_spin_7
+  - first:
+      213: -8851541966524582743
+    second: leaf_spin_8
+  - first:
+      213: 2370291824382509755
+    second: leaf_spin_9
+  - first:
+      213: -620926632544523860
+    second: leaf_spin_10
+  - first:
+      213: -119328794920004680
+    second: leaf_spin_11
+  - first:
+      213: 3045444945688708104
+    second: leaf_spin_12
+  - first:
+      213: 670965832519170878
+    second: leaf_spin_13
+  - first:
+      213: 4121821167377457205
+    second: leaf_spin_14
+  - first:
+      213: -8663355325713393330
+    second: leaf_spin_15
+  - first:
+      213: 5903927569307299323
+    second: leaf_spin_16
+  - first:
+      213: 622241110251014929
+    second: leaf_spin_17
+  - first:
+      213: 173062246757817744
+    second: leaf_spin_18
+  - first:
+      213: 7068313591311279896
+    second: leaf_spin_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: leaf_spin_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 393
+        height: 252
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3053d032ed82497f0800000000000000
+      internalID: -606815115252255485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf_spin_1
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 0
+        width: 393
+        height: 252
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e70e72515dffca20800000000000000
+      internalID: 3084962795490248678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf_spin_2
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 0
+        width: 393
+        height: 252
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9920ae4982362270800000000000000
+      internalID: 8225317334749817242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf_spin_3
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 0
+        width: 393
+        height: 252
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8695436082d163c0800000000000000
+      internalID: -4367978714709518708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      leaf_spin_0: -606815115252255485
+      leaf_spin_1: 3084962795490248678
+      leaf_spin_10: -620926632544523860
+      leaf_spin_11: -119328794920004680
+      leaf_spin_12: 3045444945688708104
+      leaf_spin_13: 670965832519170878
+      leaf_spin_14: 4121821167377457205
+      leaf_spin_15: -8663355325713393330
+      leaf_spin_16: 5903927569307299323
+      leaf_spin_17: 622241110251014929
+      leaf_spin_18: 173062246757817744
+      leaf_spin_19: 7068313591311279896
+      leaf_spin_2: 8225317334749817242
+      leaf_spin_3: -4367978714709518708
+      leaf_spin_4: -7329380556542336340
+      leaf_spin_5: 4285789207701481262
+      leaf_spin_6: -5469023176551511919
+      leaf_spin_7: 2856723084627753718
+      leaf_spin_8: -8851541966524582743
+      leaf_spin_9: 2370291824382509755
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
